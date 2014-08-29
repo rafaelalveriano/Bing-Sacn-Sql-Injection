@@ -2,8 +2,9 @@
 
 /*
  * Autor: Rafael Augusto. | a.k.a: Brlo0ping.
- * Descrição: Encontrar sites com vulnerabilidade de Sql Injection em um seguinte servidor utilizando o buscador bing.
- * 
+ * Script em php com a finalidade de buscar e verificar todos os sites vulneráveis a sql injection de um seguinte servidor de hospedagem compartilhada.
+ * Um site vulnerável, hospedado em um servidor mal configurado e  mal protegido, irá corromper a segurança de todos os outros sites  e sistemas que estão hospedados no mesmo servidor(Mass Defacer). 
+ * A intenção do script é evitar a má escolha de um sv de hospedagem e evitar um futuro mass defacer. 
  */
 
 
